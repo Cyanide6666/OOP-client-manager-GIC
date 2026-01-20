@@ -11,7 +11,7 @@ class ManejadorArchivos:
                 writer.writeheader()
                 
                 for c in lista_clientes:
-                    # Aquí usamos los getters que definiste en la clase Cliente
+                    # Aquí usamos los getters que definistese define en la clase Cliente
                     writer.writerow({
                         'id': c.id_cliente, 
                         'nombre': c.nombre, 

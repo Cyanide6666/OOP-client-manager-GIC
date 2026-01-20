@@ -58,5 +58,5 @@ class GestorClientes:
 
     def exportar_reporte(self):
         ruta = "reportes/resumen_clientes.txt"
-        # Llamamos al método estático del manejador
+        # Llamamos al método estático para generar el reporte
         ManejadorArchivos.generar_reporte_txt(ruta, self.clientes)

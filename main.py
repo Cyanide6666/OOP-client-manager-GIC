@@ -29,7 +29,7 @@ def mostrar_lista_consola(gestor):
     if not clientes:
         print("   [!] No hay clientes registrados en la base de datos.")
     else:
-        # Polimorfismo: cada objeto se muestra según su clase (Lección 4)
+        # Polimorfismo: cada objeto se muestra según su clase
         for c in clientes:
             print(f" • {c.mostrar_info()}")
             
@@ -62,8 +62,7 @@ def menu_principal():
                 
                 tipo = input("¿Es Premium? (si/no): ").lower()
                 if tipo == 'si':
-                    desc = float(input("Ingrese descuento (%): "))
-                    nuevo = ClientePremium(id_c, nombre, email, desc)
+                    nuevo = ClientePremium(id_c, nombre, email, 40)
                 else:
                     nuevo = ClienteRegular(id_c, nombre, email)
 
