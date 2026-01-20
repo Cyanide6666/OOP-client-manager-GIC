@@ -1,7 +1,7 @@
 import os
 import logging
 
-# Importaciones de tus módulos
+# Importaciones de los módulos
 from modulos.gestor_clientes import GestorClientes
 from modulos.cliente_regular import ClienteRegular
 from modulos.cliente_premium import ClientePremium
@@ -35,7 +35,7 @@ def mostrar_lista_consola(gestor):
             
     print("="*60 + "\n")
 
-# 3. Menú Principal
+# Menú Principal
 def menu_principal():
     # El gestor carga los datos del CSV al iniciarse
     gestor = GestorClientes()
@@ -57,7 +57,7 @@ def menu_principal():
                 nombre = input("Nombre: ")
                 email = input("Email: ")
                 
-                # Validación de email)
+                # Validación de email
                 validar_email(email)
                 
                 tipo = input("¿Es Premium? (si/no): ").lower()
