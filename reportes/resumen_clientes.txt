@@ -1,0 +1,15 @@
+============================================================
+                RESUMEN GENERAL DE CLIENTES
+                Generado el: 19/01/2026 15:14:14
+============================================================
+
+ • [REGULAR] Juan Perez (ID:101) - Beneficio: 0% de descuento
+ • [PREMIUM] Maria Jose(ID:102)- Beneficio: 40% de descuento + Acceso a sala VIP activado.
+ • [CORPORATIVO] Empresa XYZ (ID:103) - Beneficio: 15% de descuento + Facturación con cuenta corriente a 30 días.
+ • [REGULAR] Carlos Soto (ID:104) - Beneficio: 0% de descuento
+ • [CORPORATIVO] Compañía TECH (ID:106) - Beneficio: 15% de descuento + Facturación con cuenta corriente a 30 días.
+ • [PREMIUM] Bruno Ruiz(ID:666)- Beneficio: 40% de descuento + Acceso a sala VIP activado.
+
+------------------------------------------------------------
+TOTAL DE REGISTROS: 6
+============================================================

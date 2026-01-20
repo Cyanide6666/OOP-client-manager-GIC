@@ -1,0 +1,16 @@
+2026-01-19 12:53:21,808 - INFO - ÉXITO: Cliente psjsjsjs@hotmail.com agregado.
+2026-01-19 13:28:39,352 - INFO - ÉXITO: Cliente psdppds1@mail.com agregado.
+2026-01-19 13:28:56,371 - ERROR - Error en eliminación: 'GestorClientes' object has no attribute 'eliminar_cliente'
+2026-01-19 13:42:13,747 - INFO - ÉXITO: Cliente cyanide@gmail.com agregado.
+2026-01-19 13:45:15,747 - INFO - ÉXITO: Cliente SLKDS@JD.COM agregado.
+2026-01-19 13:51:01,779 - INFO - ÉXITO: Cliente DJDS@GMAIL.COM agregado.
+2026-01-19 14:07:21,225 - INFO - Reporte TXT exportado.
+2026-01-19 14:07:43,970 - INFO - ALTA: Cliente sdsd@mail.com guardado.
+2026-01-19 14:08:16,869 - INFO - BAJA: ID 200 eliminado.
+2026-01-19 15:01:13,292 - INFO - ALTA: Cliente sdsaa@gf.com guardado.
+2026-01-19 15:01:25,384 - INFO - Reporte TXT exportado.
+2026-01-19 15:01:41,358 - INFO - BAJA: ID 300 eliminado.
+2026-01-19 15:01:57,481 - INFO - Reporte TXT exportado.
+2026-01-19 15:02:13,126 - INFO - Reporte TXT exportado.
+2026-01-19 15:02:19,798 - INFO - Reporte TXT exportado.
+2026-01-19 15:08:45,671 - INFO - Reporte TXT exportado.

@@ -1,0 +1,7 @@
+id,nombre,email,tipo
+101,Juan Perez,juanito.perez@hotmail.com,ClienteRegular
+102,Maria Jose,mj@vip.cl,ClientePremium
+103,Empresa XYZ,empresa@xyz.com,ClienteCorporativo
+104,Carlos Soto,carlos.soto@outlook.com,ClienteRegular
+106,Compañía TECH,tech.solutions@tech.com,ClienteCorporativo
+666,Bruno Ruiz,brunitoCR7@fornite.cl,ClientePremium
